@@ -1,2 +1,6 @@
 date : - 28/12/2022
 Going to start Data structure learning.
+
+**Some Good Reference**
+https://www.mygreatlearning.com/blog/data-structures-using-java/
+https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
